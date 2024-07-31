@@ -84,4 +84,4 @@ I would like to thank the contributors of the [Our World in Data](https://github
 
 *This project is a work in progress and we welcome any suggestions or improvements. Please feel free to open issues or pull requests.*
 
-![Footer Image](images/Sophia Frayle.png)
+![Footer Image](https://github.com/sophiafrayle/EDACovid/blob/main/images/Sophia%20Frayle.png)
