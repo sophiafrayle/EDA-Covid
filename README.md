@@ -1,6 +1,7 @@
+![Project Banner](https://github.com/sophiafrayle/EDACovid/blob/main/images/Screenshot%202024-07-30%20at%2021.37.45.png)
+
 # COVID-19 Data Exploration and Scenario Simulator
 
-![Project Banner](images/Screenshot 2024-07-30 at 21.37.45.png)
 
 ## Introduction
 
@@ -59,16 +60,16 @@ Adjust the reproduction rate, vaccination rate, and policy stringency to simulat
 ## Screenshots
 
 ### Total Confirmed Cases Over Time
-![Total Confirmed Cases](images/Screenshot 2024-07-30 at 21.17.58.png)
+![Total Confirmed Cases](https://github.com/sophiafrayle/EDACovid/blob/main/images/Screenshot%202024-07-30%20at%2021.17.58.png)
 
 ### New Confirmed Cases Over Time
-![New Confirmed Cases](images/Screenshot 2024-07-30 at 21.18.08.png)
+![New Confirmed Cases](https://github.com/sophiafrayle/EDACovid/blob/main/images/Screenshot%202024-07-30%20at%2021.18.08.png)
 
 ### Total Deaths Over Time
-![Total Deaths](images/Screenshot 2024-07-30 at 21.18.13.png)
+![Total Deaths](https://github.com/sophiafrayle/EDACovid/blob/main/images/Screenshot%202024-07-30%20at%2021.18.13.png)
 
 ### Case Scenario Simulator
-![Case Scenario Simulator](images/Screenshot 2024-07-30 at 21.18.43.png)
+![Case Scenario Simulator](https://github.com/sophiafrayle/EDACovid/blob/main/images/Screenshot%202024-07-30%20at%2021.18.43.png)
 
 ## Data Source
 
